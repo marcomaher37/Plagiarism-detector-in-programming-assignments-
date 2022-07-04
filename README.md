@@ -42,7 +42,8 @@ Plagiarism detector ( in programming assignments )
     for data in check_plagiarism():
         print(data)
         
-#The complete code
+#The complete code :
+
     pip install -U scikit-learn
     pip install os
     import os
